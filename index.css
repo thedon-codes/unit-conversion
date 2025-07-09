@@ -18,14 +18,14 @@ h1 {
 }
 
 input {
-    background-color: transparent;
+     background-color: transparent;
     border: 2px solid #B295FF;
     border-radius: 5px;
     text-align: center;
-    width: 120px;
+    width: auto;
     height: 85px;
-    max-width: 150px;
-    max-height: 100px;
+    max-width: 100%;
+    min-width: 120px;
     font-size: 58px;
     font-weight: 900;
     color: #FFFFFF;
